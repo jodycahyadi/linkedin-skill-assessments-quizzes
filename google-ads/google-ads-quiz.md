@@ -233,7 +233,7 @@
 
 #### Q34. Tory manages marketing for a hotel franchise with a thousand locations worldwide. Each hotel location has its own landing page. If Tory wanted to quickly generate search ads for every location, which ad type would be most beneficial?
 
-- [ ] Dynamic Search Ads
+- [x] Dynamic Search Ads
 - [ ] Responsive Search Ads
 - [ ] Universal Search Ads
 - [ ] Programmatic Search Ads
@@ -292,7 +292,7 @@
 #### Q42. If your average daily budge is $20, what is the maximum amount Google Ads may charge you on a single day?
 
 - [ ] $22
-- [ ] $20
+- [x] $20
 - [ ] $40
 - [ ] $36
 
@@ -321,7 +321,7 @@
 
 - [ ] Inform Linzi this is not possible
 - [ ] Use the Target Impression Share bid strategy
-- [ ] Use the maximum bid amount as suggested by Keyword Planner
+- [x] Use the maximum bid amount as suggested by Keyword Planner
 - [ ] Create an ad group, with top of page as the only location target
 
 #### Q47. What destination URL would you need to configure to send traffic directly to a page within a mobile app?
@@ -347,7 +347,35 @@
 
 #### Q50. What tool should you use to determine where your ad will appear for a particular search query?
 
-- [ ] Placement Optimization and Preview
+- [x] Placement Optimization and Preview
 - [ ] Bid Optimizer
 - [ ] Ad Preview and Diagnosis
 - [ ] Keyword Planner
+
+#### Q51. What Google Ads tool could you use to research search volume data?
+
+- [ ] Suggestions
+- [x] Keyword Planner
+- [ ] Performance Planner
+- [ ] Bid Optimizer
+
+#### Q52. You sell piano keyboards, but your ads also appear when people search for "computer keyboards". What should you do?
+
+- [ ] Add an exact match keyword as [piano].
+- [ ] Add an exact match keyword as [computer].
+- [ ] Add a negative keyword for keyboards.
+- [x] Add a negative keyword fot computer.
+
+#### Q53. Patrick sells hats, and has added [womens hats] to his keyword list. Which search term will not trigger Patrick's ad to display?
+
+- [ ] hat for women
+- [ ] women's hats
+- [ ] the women's hats
+- [x] sewing womens hats
+
+#### Q54. Which statement is true when structuring ad groups?
+
+- [x] Adding more ads to an ad group provides more chances for success in an auction.
+- [ ] Adding fewer ads to an ad group will improve the likelihood of an ad receiving a high-quality score.
+- [ ] Adding more ads to an ad group will improve the likelihood of multiple ads appearing for search query.
+- [ ] Adding fewer ads to an ad group means higher bounce rates.
